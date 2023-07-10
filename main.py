@@ -25,7 +25,7 @@ START_IMG = os.environ.get("START_IMG")
 
 
 bot = Client(
-    "ArnavBot" ,
+    "AnshBot" ,
     api_id = API_ID,
     api_hash = API_HASH ,
     bot_token = BOT_TOKEN
@@ -95,7 +95,7 @@ HELP_TEXT = """
 ➻ **ɴᴏᴛᴇ »** ʙᴏᴛʜ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅs ᴡᴏʀᴋ ɪɴ ɢʀᴏᴜᴘ ᴏɴʟʏ!!
 ➻ /ping - **ᴛᴏ ᴄʜᴇᴄᴋ ᴛʜᴇ ᴘɪɴɢ ᴏғ ᴛʜᴇ ʙᴏᴛ.**
 
-©️ ᴀʀɴᴀᴠ-✗ᴅ"""
+©️ ᴀɴsʜ-✗ᴅ"""
 
 START_TEXT = """
 **๏ ʜᴇʏ, ɪ ᴀᴍ [{BOT_NAME}](t.me/{BOT_USERNAME})**
